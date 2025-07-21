@@ -2,6 +2,7 @@
 import sys
 import os
 import time
+
 from functools import partial
 from PyQt6.QtWidgets import (
     QApplication, QMainWindow, QTreeView, QTabWidget,
